@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/frank-faisca-46679322">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
